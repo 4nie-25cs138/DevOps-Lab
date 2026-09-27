@@ -6,24 +6,14 @@ NIE College
 Prakash
 26
 ISE
-<<<<<<< HEAD
-<<<<<<< HEAD
 NIE College 
 
 Hemanth 
 40
 EC
 NIE College
-=======
-NIE College
 
-They have created the Branch
->>>>>>> b719885 (Added student details with the one more update)
-=======
-NIE College   
+They have created the Branch   
 
 
-Hemanth
-40
-NIE College
->>>>>>> student-merge
+
